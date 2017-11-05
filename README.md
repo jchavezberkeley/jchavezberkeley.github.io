@@ -1,4 +1,4 @@
-# jchavezberkeley.github.io
+# Jose Andres Chavez
 Personal website with projects.
 
 Hello, my name is Jose, a Junior at UC Berkeley.
